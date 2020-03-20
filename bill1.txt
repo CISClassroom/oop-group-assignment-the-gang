@@ -1,0 +1,46 @@
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Frappe Latte	50	Bath
+Cool Ovaltin	35	Bath
+Hot Americano	30	Bath
+Cool Esspresso	40	Bath
+Frappe Cappucino	50	Bath
+Hot Cappucino	30	Bath
+Frappe Ovaltin	45	Bath
+Hot Ovaltin	25	Bath
+Frappe Latte	50	Bath
+Cool Ovaltin	35	Bath
+Hot Americano	30	Bath
+Cool Esspresso	40	Bath
+Frappe Cappucino	50	Bath
+Hot Cappucino	30	Bath
+Frappe Ovaltin	45	Bath
+Hot Ovaltin	25	Bath
+Frappe Latte	50	Bath
+Cool Ovaltin	35	Bath
+Hot Americano	30	Bath
+Cool Esspresso	40	Bath
+Frappe Cappucino	50	Bath
+Hot Cappucino	30	Bath
+Frappe Ovaltin	45	Bath
+Hot Ovaltin	25	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Ovaltin	45	Bath
+Cool Ovaltin	35	Bath
+Hot Ovaltin	25	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+Hot Latte	30	Bath
+

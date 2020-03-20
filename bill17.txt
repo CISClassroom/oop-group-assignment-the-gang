@@ -1,0 +1,10 @@
+Bill num : 17
+PNFO Cafe
+Frappe Latte	50	Bath
+Frappe Ovaltin	45	Bath
+Cool Ovaltin	35	Bath
+Cool Ovaltin	35	Bath
+Cool Ovaltin	35	Bath
+Cool Ovaltin	35	Bath
+
+ Price 235 Bath

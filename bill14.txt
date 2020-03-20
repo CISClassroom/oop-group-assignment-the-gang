@@ -1,0 +1,7 @@
+Bill num : 14
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+Frappe Latte	50	Bath
+
+ Price 200 Bath

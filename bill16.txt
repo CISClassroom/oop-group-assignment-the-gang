@@ -1,0 +1,6 @@
+Bill num : 16
+Frappe Ovaltin	45	Bath
+Frappe Latte	50	Bath
+Cool Ovaltin	35	Bath
+Cool Ovaltin	35	Bath
+ Price 165 Bath
